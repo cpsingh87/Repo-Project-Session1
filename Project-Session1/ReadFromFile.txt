@@ -1,0 +1,6 @@
+This is 1st line
+this is second line
+This is 4th line after skipping 3rd empty line
+how are
+you
+today-this is 7th line and end of line
